@@ -42,6 +42,7 @@ class PlacesInput extends Component {
       <View style={[styles.container, this.props.stylesContainer]}>
         <TextInput
           placeholder={this.props.placeHolder}
+          multiline={true}
           style={[styles.input, this.props.stylesInput]}
           onChangeText={query => {
             this.setState({query}, () => {

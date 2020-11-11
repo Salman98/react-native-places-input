@@ -1,5 +1,7 @@
 # Changelog
 
+## 1.1.8
+Added multiline 
 ## 1.1.7
 Fixing UID for a place
 ## 1.1.6
